@@ -1,4 +1,4 @@
-hmtl {
+html {
   font-family: Merriweather, serif;
 }
 
@@ -12,11 +12,13 @@ th {
 }
 
 .box {
-  border: 1px solid #ccc;
+  border: 1px solid #333;
+  border-radius: 8px;
 }
+
 .vost {
   background-color: #f2f2f2;
-  color: #666;ß
+  color: #666;
 }
 
 .rem {
